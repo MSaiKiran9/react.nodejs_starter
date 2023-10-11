@@ -1,5 +1,5 @@
 # react.nodejs_starter
-This repo is a started kit that sets up front-end and back-end of a simple react and node app .
+This repo is a starter kit that sets up front-end and back-end of a simple react and node app .
 # steps to initialize the starter kit :
 1. install surreal from the official page's documentation
 2. start the surreal server using command : surreal.exe start memory -A --auth --user root --pass root
