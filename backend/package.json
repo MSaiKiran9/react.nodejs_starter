@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "surrealdb.js": "^0.9.1"
+  }
+}
