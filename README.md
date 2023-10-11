@@ -1,5 +1,5 @@
 # react.nodejs_starter
-This repo is a starter kit that sets up front-end and back-end of a simple react and node app .
+This repo is a starter kit that sets up front-end and back-end of a simple react and node app. This app's backend add random data to surrealdb as many times as we start the server & the front-end fetches the data from the surreal-db and displays in the UI.
 # steps to initialize the starter kit :
 1. install surreal from the official page's documentation
 2. start the surreal server using command : surreal.exe start memory -A --auth --user root --pass root
@@ -16,3 +16,5 @@ This repo is a starter kit that sets up front-end and back-end of a simple react
 6. In the browser now go to http://localhost:5173/ where the vite is serving the front-end's webpage the ui will look something like this :
    <img width="614" alt="Ui" src="https://github.com/MSaiKiran9/react.nodejs_starter/assets/116418856/aec8e67c-1517-4779-a1ed-220f751cebc2">
 
+----> Any issues ?
+   Feel free to raise the issue and contribute :)
