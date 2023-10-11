@@ -8,6 +8,7 @@ This repo is a starter kit that sets up front-end and back-end of a simple react
 5. now type npm run dev in the front-end and node app.js in the backend and the terminals will look something like this :
    front-end terminal:
    <img width="218" alt="front-end terminal" src="https://github.com/MSaiKiran9/react.nodejs_starter/assets/116418856/f3373ab4-513c-41a6-8c6c-137303405a27">
+
   back-end terminal:
 <img width="437" alt="image" src="https://github.com/MSaiKiran9/react.nodejs_starter/assets/116418856/e615d44b-a2d3-41a7-befc-bcb3ff621bf0">
 6. In the browser now go to http://localhost:5173/ where the vite is serving the front-end's webpage the ui will look something like this :
