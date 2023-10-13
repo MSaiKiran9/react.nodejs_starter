@@ -26,8 +26,11 @@ h2{
             -webkit-text-fill-color: transparent; 
             -webkit-background-clip: text; 
 }
+h1>p{
+  font-size: 2rem;
+}
 .group-table {
-  width: 300px;
+  width: 100%;
   border-collapse: collapse;
   margin-bottom: 20px;
   background-color: #f0f0f0;

@@ -67,7 +67,7 @@ const App = () => {
 
   return (
     <div id='main'>
-      <h1>React + Nodejs Starter</h1>
+      <h1><p>React + Nodejs</p> Surrealdb Starter</h1>
       <div>
         <h2>Rendered Groups :</h2>
         <br />
