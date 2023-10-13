@@ -29,6 +29,23 @@ h2{
 h1>p{
   font-size: 2rem;
 }
+#error{
+  background-color: rgb(216, 164, 164);
+  width: 100vw;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#error>p{
+  color:rgb(152, 89, 89);
+  font-size: 3rem;
+  text-align: center;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button{
+  background:white;
+}
 .group-table {
   width: 100%;
   border-collapse: collapse;
