@@ -18,5 +18,10 @@ This repo is a starter kit that sets up front-end and back-end of a simple react
 
 #From Here:
 1. This as a base point we can implement client - server model & so on with surreal db as database .
-----> Any issues ?
-   Feel free to raise the issue and contribute :)
+2. With this base we can also change auth modes or tweak auth modes as per the need .
+
+#Debugging:
+- Some console logs & methods are commented to ensure one can quickly comment out and check some other surrealdb methods and better debug the issues while connecting to surrealdb .
+
+#Any issues ?
+- Feel free to raise the issue and contribute :)
