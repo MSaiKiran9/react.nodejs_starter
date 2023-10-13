@@ -19,7 +19,9 @@ This repo is a starter kit that sets up front-end and back-end of a simple react
 
 
 6. In the browser now go to http://localhost:5173/ where the vite is serving the front-end's webpage the ui will look something like this :
-   <img width="614" alt="Ui" src="https://github.com/MSaiKiran9/react.nodejs_starter/assets/116418856/aec8e67c-1517-4779-a1ed-220f751cebc2">
+
+   <img width="505" alt="image" src="https://github.com/MSaiKiran9/react.nodejs_starter/assets/116418856/c1742726-c3a2-483b-9136-50b1c5b8dad6">
+
 
 # From Here:
 1. This as a base point we can implement client - server model & so on with surreal db as database .
