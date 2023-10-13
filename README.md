@@ -2,7 +2,7 @@
 This repo is a starter kit that sets up front-end and back-end of a simple react and node app. This app's backend after auth connects with surrealdb and adds random users data to surrealdb as many times as we start the server . Front-end after successful auth connects with surrealdb fetches the data from the surrealdb and displays in the UI. Just like a simple publish-subscribe model.
 # steps to initialize the starter kit :
 1. install surreal from the official page's documentation
-2. start the surreal server using command : surreal.exe start memory -A --auth --user root --pass root
+2. start the surreal server using command : <a href="">surreal.exe start memory -A --auth --user root --pass root</a>
 3. clone the repository and setup back-end and front-end seperately .
 4. get into the front-end folder and type npm install & same for backend this will install all the dependencies .
 5. now type npm run dev in the front-end and node app.js in the backend and the terminals will look something like this :
