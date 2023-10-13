@@ -10,3 +10,40 @@
   align-items: center;
   flex-direction: column;
 }
+h1{
+  padding:2rem;
+  font-family: Arial, Helvetica, sans-serif; 
+            background: linear-gradient(to right, #f32170, 
+                    #ff6b08, #cf23cf, #eedd44); 
+            -webkit-text-fill-color: transparent; 
+            -webkit-background-clip: text; 
+}
+h2{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif; 
+            background: linear-gradient(to right, #998a90, 
+                    #ba9a85, #cfaacf, #f1edc6); 
+            -webkit-text-fill-color: transparent; 
+            -webkit-background-clip: text; 
+}
+.group-table {
+  width: 300px;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+  background-color: #f0f0f0;
+}
+
+.group-table td {
+  padding: 10px;
+  border: 1px solid #ccc;
+  background-color: #bcbcbc;
+  color: #1e1e1e;
+}
+
+.group-table .label {
+  font-weight: bold;
+  text-align: right;
+  padding-right: 10px;
+  background-color: #e0e0e0; 
+  color: #333; 
+}

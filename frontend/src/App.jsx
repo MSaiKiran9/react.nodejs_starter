@@ -67,20 +67,32 @@ const App = () => {
 
   return (
     <div id='main'>
-      <h1>React App</h1>
-
+      <h1>React + Nodejs Starter</h1>
       <div>
-        <h2>Rendered Groups</h2>
-        <p>----------------------</p>
+        <h2>Rendered Groups :</h2>
+        <br />
         <ul>
           {groups.map(item => (
-            <div key={item.id}>
-              <li>ID: {item.id}</li>
-              <li>Identifier: {item.identifier}</li>
-              <li>Marketing: {item.marketing.toString()}</li>
-              <li>Name: {item.name}</li>
-              <p>----------------------</p>
-            </div>
+            <table className="group-table" key={item.id}>
+              <tbody>
+                <tr>
+                  <td className="label">Name:</td>
+                  <td>{item.name}</td>
+                </tr>
+                <tr>
+                  <td className="label">ID:</td>
+                  <td>{item.id}</td>
+                </tr>
+                <tr>
+                  <td className="label">Identifier:</td>
+                  <td>{item.identifier}</td>
+                </tr>
+                <tr>
+                  <td className="label">Marketing:</td>
+                  <td>{item.marketing.toString()}</td>
+                </tr>
+              </tbody>
+            </table>
           ))}
         </ul>
       </div>
